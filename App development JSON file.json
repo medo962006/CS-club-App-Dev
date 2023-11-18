@@ -1,12 +1,74 @@
 {
-  "books":[
-  { 
-    "id":1,
-    "image_url":"http://example",
-    "book_name":"John Smith",
-    "author":"John Smith",
-    "genre":"fiction",
-    "borrowed":false
-  }
-]
+  "Session 1": [
+    {
+      "Session Id": 1,
+      "ImageLink": "https://imgur.com/lvW4PKN",
+      "SessionName": "Introduction to App Development",
+      "SessionDesc": "Why And How You Will Learn App Development",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-fb8570fa6b8a47388cadd79692f798d2?pvs=4"
+    }
+  ],
+  "Session 2": [
+    {
+      "Session Id": 2,
+      "ImageLink": "https://imgur.com/pIrM45a",
+      "SessionName": "Introduction to Dart",
+      "SessionDesc": "Learn The definition of important Programming Concepts, and how to use basic Dart code in your favor!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-0a552b8cec5246d5971248efb1b8ce7e?pvs=4"
+    }
+  ],
+  "Session 3": [
+    {
+      "Session Id": 3,
+      "ImageLink": "https://imgur.com/GtgNgiT",
+      "SessionName": "Dart Follow Up",
+      "SessionDesc": "Dive deeper into the syntax of Dart and its usages, Learn how to work with basic data structures in Dart to practically use it while creating a mobile application!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-6c466a7e1e2240969a789b0336c6d59f?pvs=4"
+    }
+  ],
+  "Session 4": [
+    {
+      "Session Id": 4,
+      "ImageLink": "https://imgur.com/9nSbvS9",
+      "SessionName": "Advanced Dart Concepts",
+      "SessionDesc": "Learn how to efficiently write code in dart, using functions and classes using Object Oriented Programming!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-30101892299c48f397199396fbe50912?pvs=4"
+    }
+  ],
+  "Session 5": [
+    {
+      "Session Id": 5,
+      "ImageLink": "https://imgur.com/do24oje",
+      "SessionName": "Session 5",
+      "SessionDesc": "---",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Sessions-5-cf75da2d78114cb985c86f14888b640f?pvs=4"
+    }
+  ],
+  "Session 6": [
+    {
+      "Session Id": 6,
+      "ImageLink": "https://imgur.com/oH7Dzz3",
+      "SessionName": "Introduction to Flutter",
+      "SessionDesc": "Create Your first Flutter Mobile Application using common Flutter widgets",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-6-96c5a859e1534eb88a2550442463c5a6?pvs=4"
+    }
+  ],
+  "Session 7": [
+    {
+      "Session Id": 7,
+      "ImageLink": "https://imgur.com/YD8tJbK",
+      "SessionName": "More Flutter Concepts",
+      "SessionDesc": "---",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-7-927ab73567ca45a784bce39a83e47f61?pvs=4"
+    }
+  ],
+  "Session 8": [
+    {
+      "Session Id": 8,
+      "ImageLink": "https://imgur.com/pIrM45a",
+      "SessionName": "Using Firebase in mobile development!",
+      "SessionDesc": "Learn how to use one of the most important Flutter frameworks, by creating real-life applications.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-8-5020ad86efe24cadaddad0123fe93cd7?pvs=4"
+    }
+  ]
 }
