@@ -1,5 +1,5 @@
-{
-      "App Development" : [{"Session Id": 1,
+[{
+        "Session Id": 1,
         "ImageLink": "https://imgur.com/lvW4PKN",
         "SessionName": "Introduction to App Development",
         "SessionDesc": "Why And How You Will Learn App Development",
@@ -46,4 +46,4 @@
         "SessionName": "Using Firebase in mobile development!",
         "SessionDesc": "Learn how to use one of the most important Flutter frameworks, by creating real-life applications.",
         "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-8-5020ad86efe24cadaddad0123fe93cd7?pvs=4"
-      }]}
+      }]
